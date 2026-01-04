@@ -1,4 +1,6 @@
 # Bin2Dec - Conversor de Binário para Decimal
+<img width="1356" height="749" alt="Captura de tela de 2026-01-04 01-23-02" src="https://github.com/user-attachments/assets/13c03a75-dff2-44b9-8b6e-3448a9bd20e7" />
+
 
 Este é um projeto desenvolvido em **C#** utilizando o framework **Avalonia UI** para ambiente **Linux (Ubuntu 24.04)**. O objetivo é converter sequências de até 8 dígitos binários (0s e 1s) em seu equivalente decimal.
 
